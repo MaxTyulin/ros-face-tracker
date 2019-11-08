@@ -37,3 +37,6 @@ $ catkin_make
 $ roslaunch face_traker face_traker.launch
 ```
 
+## Example
+[![Face tracking example](http://img.youtube.com/vi/dqZ7WhHHTR0/0.jpg)](http://www.youtube.com/watch?v=dqZ7WhHHTR0 "Face tracking example")
+
