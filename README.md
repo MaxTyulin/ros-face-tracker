@@ -1,6 +1,6 @@
 ## Software
-Ubuntu 18.04
-ROS Melodic
+- Ubuntu 18.04
+- ROS Melodic
 
 You need to have an installed ROS system with a configured developer environment. The assumption is that your workspace is in your home directory. : ~/catkin_ws.
 
